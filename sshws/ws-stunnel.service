@@ -1,6 +1,6 @@
 [Unit]
-Description=SSH Over Websocket Python Bokirrr
-Documentation=https://google.com
+Description=SSH Over Websocket Python EtilSsh
+Documentation=https://wa.me/6287721815317
 After=network.target nss-lookup.target
 
 [Service]
