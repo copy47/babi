@@ -1,5 +1,5 @@
 [Unit]
-Description=SSH Over Websocket Python EtilSsh
+Description=SSH Over Websocket Python Etilssh
 Documentation=https://wa.me/6287721815317
 After=network.target nss-lookup.target
 
